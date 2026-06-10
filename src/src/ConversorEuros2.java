@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
+public double convertirEurosAPesos(double euros){
+    return euros * 4300;
+}
 
-public class ConversorEuros2 {
+void main() {
 }
