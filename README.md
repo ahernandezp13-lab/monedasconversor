@@ -79,7 +79,7 @@ conversor-monedas/
 
 ### Requisitos
 
-* Java JDK 17 o superior.
+* Java JDK 21 o superior.
 * IntelliJ IDEA o cualquier IDE compatible con Java.
 * Git instalado.
 
@@ -92,7 +92,7 @@ git clone URL_DEL_REPOSITORIO
 ### Entrar al proyecto
 
 ```bash
-cd conversor-monedas
+cd monedas-conversor
 ```
 
 ### Ejecutar
